@@ -13,6 +13,3 @@ df.head()
 3  2000 Mbps    Upload  110.0  AT&T Fiber  Internet 2000  2501 1st ave s, birmingham, al, 35210  10730126022012 -86.701168  33.54186          2023
 4  1000 Mbps  Download   80.0  AT&T Fiber  Internet 1000  2501 1st ave s, birmingham, al, 35210  10730126022012 -86.701168  33.54186          2023
 ```
-
-## Process
-![Parsing Broadbandnow Data](https://github.com/uva-bi-sdad/sdc.broadband.broadbandnow/assets/22178748/83e769c9-40d6-4c83-adcb-19477c634543)
