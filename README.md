@@ -2,6 +2,18 @@
 
 Tools to access and prepare data scrapped from broadbandnow.com
 
+## Graph
+```mermaid
+graph LR;
+           query_year=2023-->Broadbandnow;
+           Broadbandnow-->speed;
+           Broadbandnow-->down_up;
+           Broadbandnow-->price;
+           Broadbandnow-->name;
+           Broadbandnow-->type;
+           Broadbandnow-->address;
+```
+
 ## Example data
 ```python
 df = pd.read_csv('13121.csv.xz', dtype={'GEOID20':object})
